@@ -1,0 +1,15 @@
+{
+  "main": "./lib/interface.js",
+  "name": "somepackage",
+  "version": "1.0.0",
+  "description": "test npm init",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "taijia",
+  "license": "ISC"
+}
